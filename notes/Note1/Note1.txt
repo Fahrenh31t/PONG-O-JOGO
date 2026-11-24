@@ -1,0 +1,5 @@
+Fazer sistema de troca de controles em cada raquete
+
+Movimento WS (vou fazer primeiro
+Movimento CIMA E BAIXO
+movimento Mouse (segue ele)
